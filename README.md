@@ -1,7 +1,7 @@
-Complex and Quaternion Dense neural Networks Layers for solving the 4-Bit parity check problem
+Complex and Quaternion Dense Neural Networks Layers for solving the 4-Bit parity check problem
 =====================
 
-This repository contains code which evaluate the abilities of Real,
+This repository contains code which evaluates the abilities of Real,
 Complex, and quaternion based Dense Layers to solve the 4-bit parity
 check problem. It demonstrates the effectiveness of using other
 algebras to reduce the size of Neural Networks for a given task. 
