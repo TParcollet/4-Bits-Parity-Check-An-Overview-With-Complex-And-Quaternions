@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 #
-# Authors: Chiheb Trabelsi
+# Authors: Parcollet Titouan
 #
 
 from keras import backend as K
